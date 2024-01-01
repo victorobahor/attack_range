@@ -51,7 +51,7 @@ pexpect==4.7.0
 pluggy==0.13.1
 portalocker==1.7.1
 pre-commit==1.21.0
-prompt-toolkit==1.0.14
+prompt-toolkit==3.0.13
 protobuf==3.6.1
 psutil==5.6.7
 ptyprocess==0.6.0
